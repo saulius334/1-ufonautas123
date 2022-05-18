@@ -1,0 +1,23 @@
+{
+  "name": "1-ufonautas123",
+  "version": "1.0.0",
+  "description": "Pirmassi projektas",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/saulius334/1-ufonautas123.git"
+  },
+  "keywords": [
+    "HTML",
+    "CSS"
+  ],
+  "author": "Saul",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/saulius334/1-ufonautas123/issues"
+  },
+  "homepage": "https://github.com/saulius334/1-ufonautas123#readme"
+}
