@@ -4,6 +4,7 @@
   "description": "Pirmassi projektas",
   "main": "index.js",
   "scripts": {
+    "dev": "dead-server --port=3000 --host=localhost",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -19,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/saulius334/1-ufonautas123/issues"
   },
-  "homepage": "https://github.com/saulius334/1-ufonautas123#readme"
+  "homepage": "https://github.com/saulius334/1-ufonautas123#readme",
+  "devDependencies": {
+    "dead-server": "^1.0.6"
+  }
 }
